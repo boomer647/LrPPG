@@ -1,5 +1,5 @@
 # ROI selection of MCCFrPPG and CFrPPG
-Detailed implementation settings of LrPPG and MS-LrPPG
+Detailed ROI definition of MCCFrPPG and CFrPPG
 
 ![Figure 1.](https://user-images.githubusercontent.com/3102772/28667872-f392f46a-72ff-11e7-935b-933d33011583.png)
 
